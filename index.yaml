@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  scsctl:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-09T11:38:37.57743457Z"
+    description: A Helm chart for Kubernetes
+    digest: cfe559e7b33d6be2bd3f20be0065ddc629f552e3dde16cecce233b7ecfc24418
+    name: scsctl
+    type: application
+    urls:
+    - https://github.com/jency92/scsctl/releases/download/scsctl-0.1.0/scsctl-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-09T11:38:37.413569865Z"
